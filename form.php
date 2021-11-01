@@ -94,7 +94,7 @@
     </div>
 
     <section class='container'>
-        <img src="public/uploads/Thibaut.jpg" alt="ID_photo">
+        <img src="public/uploads/driver_61802c9869303.jpg" alt="ID_photo">
         <div class="information-container">
             <h2>HOMER SIMPSON</h2>
             <address>
